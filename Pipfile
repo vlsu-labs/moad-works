@@ -8,7 +8,11 @@ numpy = "*"
 scipy = "*"
 pandas = "*"
 matplotlib = "*"
+seaborn = "*"
 ipykernel = "*"
+ipywidgets = "*"
+tqdm = "*"
+tensorflow = "*"
 scikit-learn = "*"
 
 [requires]
